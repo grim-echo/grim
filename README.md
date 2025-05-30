@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building Disc
 - 🌱 I’m learning: **Next.js, TypeScript, and DevOps practices**
 - 🛠️ Tech Stack: Full-stack JS (React + Node.js), Python, MongoDB, Tailwind CSS
 - 💬 Ask me about: Discord bots, web development, or automation scripts
-- 📫 Reach me anytime via the links below!
+- 📫 Reach me: **ashish.weplay@gmail.com**
 - ⚡ Fun Fact: I probably automate things before doing them manually 😄
 
 ---
@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building Disc
 
 ## 📈 GitHub Stats
 
-![slagop-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=slagop-Dev&show_icons=true&theme=tokyonight)
+![Slagop's GitHub stats](https://github-readme-stats.vercel.app/api?username=slagop-Dev&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -51,4 +51,4 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building Disc
 [![Instagram](https://img.shields.io/badge/-itz.ashish0_0-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/itz.ashish0_0)  
 [![Discord](https://img.shields.io/badge/-grim.echo-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/grim.echo)  
 [![Website](https://img.shields.io/badge/-itsgrim.netlify.app-000000?style=flat-square&logo=netlify&logoColor=white)](https://itsgrim.netlify.app)  
-
+[![Email](https://img.shields.io/badge/-ashish.weplay@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashish.weplay@gmail.com)
