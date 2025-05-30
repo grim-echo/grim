@@ -51,4 +51,4 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building Disc
 [![Instagram](https://img.shields.io/badge/-itz.ashish0_0-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/itz.ashish0_0)  
 [![Discord](https://img.shields.io/badge/-grim.echo-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/grim.echo)  
 [![Website](https://img.shields.io/badge/-itsgrim.netlify.app-000000?style=flat-square&logo=netlify&logoColor=white)](https://itsgrim.netlify.app)  
-[![Email](https://img.shields.io/badge)]()
+[![Email](https://img.shields.io/badge)
