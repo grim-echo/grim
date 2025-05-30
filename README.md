@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ashish (aka Grim Echo)
+# 👋 Hi there, I'm Grim
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building Discord bots, web apps, and exploring cool technologies.
 
